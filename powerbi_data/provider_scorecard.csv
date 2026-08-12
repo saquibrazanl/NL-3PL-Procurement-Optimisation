@@ -1,0 +1,10 @@
+provider_name,lane,avg_cost_per_kg,avg_on_time_pct,avg_lead_time_days,total_shipments_ytd,total_spend_eur,sla_breach_months
+DHL Freight,Eindhoven → Warsaw,0.4168,94.44,3.60,35,8660.00,0
+DHL Freight,Rotterdam → Paris,0.3610,97.50,2.00,43,11308.00,0
+DHL Freight,Amsterdam → Frankfurt,0.3210,88.95,1.60,54,13090.00,0
+DB Schenker,Eindhoven → Warsaw,0.3805,98.21,3.20,51,12410.00,0
+DB Schenker,Rotterdam → Paris,0.3330,97.50,2.08,43,10500.00,0
+DB Schenker,Amsterdam → Frankfurt,0.2920,98.21,1.40,59,14400.00,0
+Kuehne+Nagel,Eindhoven → Warsaw,0.3990,97.50,3.38,43,10230.00,0
+Kuehne+Nagel,Rotterdam → Paris,0.3340,98.08,1.90,47,11690.00,0
+Kuehne+Nagel,Amsterdam → Frankfurt,0.3035,98.21,1.50,55,13360.00,0
