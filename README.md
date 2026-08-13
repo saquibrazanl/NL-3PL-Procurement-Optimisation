@@ -1,4 +1,4 @@
-# Netherlands 3PL Procurement Optimisation Model (Project STAR)
+# Netherlands 3PL Procurement Optimisation Model 
 
 **Author:** Saquib Raza | IIT Mandi | Supply Chain & Logistics Analytics
 **Stack:** SQL (PostgreSQL) · Excel · Power BI
@@ -43,7 +43,7 @@ DHL Freight is currently **breaching SLA** on the Amsterdam→Frankfurt lane
 │   ├── provider_scorecard.csv
 │   ├── monthly_trend.csv
 │   └── shipment_detail.csv
-├── STAR_Project_SQL_Queries.docx      # Annotated reference: all 7 analytical queries explained
+├── Project_SQL_Queries.docx      # Annotated reference: all 7 analytical queries explained
 ├── What_this_Project_is_about.docx    # Project overview / refresher
 ├── Power_BI_Setup_Guide.md            # Step-by-step Power BI build guide (DAX measures, page layouts)
 ├── Interview_Prep_and_Project_Explainer.md  # STAR-format interview answers for this project
